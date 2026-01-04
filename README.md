@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshaychaware" alt="akshaychaware" /></a> </p>
 
-- 🌱 I’m currently learning **JWT(RBAC,ABAC)**
+- 🌱 I’m currently learning **JWT(RBAC)**
 
 - 👨‍💻 My project are available at [https://github.com/akshaychaware/Ecommerce_website/](https://github.com/akshaychaware/Ecommerce_website/)
 
